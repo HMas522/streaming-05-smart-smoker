@@ -201,4 +201,4 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 
 ![Module 5 CSV](./images/food_csv.png)
 
-![Module 5 log](./images/food_log.png.png)
+![Module 5 log](./images/food_log.png)

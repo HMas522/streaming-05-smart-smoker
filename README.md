@@ -193,7 +193,8 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
     dir
     conda activate base
 5. execute hm_producer.py in conda prompt
-6. Verify RabbitMQ sees the task or "temps", which it did. 
+6. Verify RabbitMQ 
 7. The logger documents what messages have been received. 
 8. Wait to create consumer to listen for the message. 
 
+![Module 5 Rabbit MQ](./images/module5.png)

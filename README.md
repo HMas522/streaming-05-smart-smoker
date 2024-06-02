@@ -180,4 +180,4 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 
 ## Screenshot - Documentation
 
-![verifying setup](./img/verifying.png)
+![verifying setup](./images/verifying.png)

@@ -155,7 +155,7 @@ Approach it like a puzzle and see what you can figure out.
 It will run, emit a message to the named RabbitMQ queue, and finish.
 We can execute additional commands in the terminal as soon as it finishes. 
 
-## Task 7. Execute the Consumer/Listener
+## Task 7. Execute the Consumer/Listener - Execute at a later date 
 
 1. Read v1_listen_for_messages.py (and the tutorial)
 1. Run the file.
@@ -180,3 +180,6 @@ Sending the same message each time is kind of boring. This time:
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.
 
+## Screenshot - Documentation
+
+![verifying setup](./imag/verifying.png)

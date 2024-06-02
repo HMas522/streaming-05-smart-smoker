@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2024-06-01 at 08:27 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 12
+ Machine Type: AMD64
+ Python Version: 3.10.11
+ Python Build Date and Compiler: tags/v3.10.11:7d4cc5a with Apr  5 2023 00:38:17
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Users\Hayley\Documents\streaming-05-smart-smoker\.venv\Scripts\python.exe
+ Path to virtual environment: C:\Users\Hayley\Documents\streaming-05-smart-smoker\.venv
+ Current Working Directory:   C:\Users\Hayley\Documents\streaming-05-smart-smoker
+ Path to source directory:    C:\Users\Hayley\Documents\streaming-05-smart-smoker
+ Path to script file:         C:\Users\Hayley\Documents\streaming-05-smart-smoker\util_about.py
+ User's Home Directory:       C:\Users\Hayley
+ Terminal Environment:        VS Code
+ Terminal Type:               
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================

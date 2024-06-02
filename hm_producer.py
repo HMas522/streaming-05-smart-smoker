@@ -68,7 +68,7 @@ def send_message(host: str, queue_name: str, message: str):
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     host = "localhost"
-    queue_name = "tasks"
+    queue_name = "temps"
     csv_file_path = "C:\\Users\\Hayley\\Documents\\streaming-05-smart-smoker\\smoker-temps.csv"
 
     try:

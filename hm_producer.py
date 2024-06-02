@@ -78,7 +78,7 @@ def process_csv():
                     send_message("02-food-A", (time_stamp, food_A_temp))
                 if food_B_temp_str:
                     food_B_temp = float(food_B_temp_str)
-                    send_message("02-food-B", (time_stamp, food_B_temp))
+                    send_message("03-food-B", (time_stamp, food_B_temp))
 
     # Error handling
     except FileNotFoundError:

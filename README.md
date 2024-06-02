@@ -183,3 +183,18 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 ![verifying setup](./images/verifying.png)
 
 ![verifying 2 setup](./images/verifying2.png)
+
+# Created producer
+
+1. created new .py file with student initials
+2. Repurpose code from bonus. This code can read a csv file and send it as a message.
+3. Open and configure conda prompt. 
+4. cd Documents/streaming-05-smart-smoker
+    dir
+    conda activate base
+5. execute hm_producer.py in conda prompt
+6. Verify RabbitMQ sees the task or "temps", which it did. 
+7. The logger documents what messages have been received. 
+8. Wait to create consumer to listen for the message. 
+
+![Module 5 complete](./images/producer.png)

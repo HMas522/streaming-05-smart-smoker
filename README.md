@@ -136,8 +136,6 @@ python util_aboutrabbit.py
 pip list
 ```
 
-![verifying setup](./images/verifying.png)
-
 
 ## Task 5. Read
 
@@ -182,4 +180,4 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 
 ## Screenshot - Documentation
 
-![verifying setup](./imag/verifying.png)
+![verifying setup](./img/verifying.png)

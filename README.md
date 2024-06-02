@@ -197,4 +197,8 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 7. The logger documents what messages have been received. 
 8. Wait to create consumer to listen for the message. 
 
-![Module 5 Rabbit MQ](./images/module5.png)
+![Module 5 Rabbit MQ](./images/rabbitMQ.png)
+
+![Module 5 CSV](./images/food_csv.png)
+
+![Module 5 log](./images/food_log.png.png)

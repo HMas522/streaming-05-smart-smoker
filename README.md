@@ -242,15 +242,9 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
  
 
 ## Producer Design Questions
-1. Can the open() function fail? 
-    Yes, but one might not know, with out error handling
-2. What do we do if we know a statement can fail? Hint: try/except/finally
-    Used 3 except statements
-3. Does our data have header row?
-    Yes, it is our time (UTC), Channel1, Channel2, Channel3
-4. What happens if we try to call float("Channel1")? 
-    Channel1 is a float, from defintion: class float - convert a string or number to a floating point number, if possible
-5. How will you handle the header row in your project?
-    Used for data_row in reader, then tied the header and our queues/channels together. 
-6. Will you delete it (easy), or use code to skip it (better/more difficult)
-    Did not delete. 
+1. Can the open() function fail? - Yes, but one might not know, with out error handling
+2. What do we do if we know a statement can fail? Hint: try/except/finally - Used 3 except statements
+3. Does our data have header row? - Yes, it is our time (UTC), Channel1, Channel2, Channel3
+4. What happens if we try to call float("Channel1")? - Channel1 is a float, from defintion: class float - convert a string or number to a floating point number, if possible
+5. How will you handle the header row in your project? - Used for data_row in reader, then tied the header and our queues/channels together. 
+6. Will you delete it (easy), or use code to skip it (better/more difficult) - Did not delete. 

@@ -181,3 +181,5 @@ Don't worry - it's just code. We can always revert back (try the 'undo' command 
 ## Screenshot - Documentation
 
 ![verifying setup](./images/verifying.png)
+
+![verifying 2 setup](./images/verifying2.png)

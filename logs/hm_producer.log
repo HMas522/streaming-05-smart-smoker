@@ -1,0 +1,18 @@
+2024-06-01 20:45:45,357.hm_producer.INFO ==================================================
+2024-06-01 20:45:45,358.hm_producer.INFO Today is 2024-06-01 at 08:45 PM
+2024-06-01 20:45:45,359.hm_producer.INFO Running on: nt Windows 10
+2024-06-01 20:45:45,359.hm_producer.INFO Python version:  3.10.9
+2024-06-01 20:45:45,359.hm_producer.INFO Python path: C:\Users\Hayley\anaconda3
+2024-06-01 20:45:45,360.hm_producer.INFO Working dir: C:\Users\Hayley\Documents\streaming-05-smart-smoker
+2024-06-01 20:45:45,360.hm_producer.INFO ==================================================
+2024-06-01 20:45:45,385.hm_producer.INFO  [x] Sent Time (UTC),Channel1,Channel2,Channel3
+2024-06-01 20:45:47,301.hm_producer.INFO  [x] Sent 05/22/21 12:20:15,84.2,,
+2024-06-01 20:45:48,569.hm_producer.INFO  [x] Sent 05/22/21 12:20:20,84.2,,
+2024-06-01 20:45:51,290.hm_producer.INFO  [x] Sent 05/22/21 12:21:10,87.6,,
+2024-06-01 20:45:52,387.hm_producer.INFO  [x] Sent 05/22/21 12:21:15,87.6,,
+2024-06-01 20:45:53,630.hm_producer.INFO  [x] Sent 05/22/21 12:22:10,86.3,,
+2024-06-01 20:45:55,274.hm_producer.INFO  [x] Sent 05/22/21 12:22:15,86.3,,
+2024-06-01 20:45:58,169.hm_producer.INFO  [x] Sent 05/22/21 12:23:10,92.0,,
+2024-06-01 20:45:59,264.hm_producer.INFO  [x] Sent 05/22/21 12:23:15,92.0,,
+2024-06-01 20:46:02,016.hm_producer.INFO  [x] Sent 05/22/21 12:24:10,96.8,,
+2024-06-01 20:46:03,702.hm_producer.INFO  [x] Sent 05/22/21 12:24:15,96.8,,
